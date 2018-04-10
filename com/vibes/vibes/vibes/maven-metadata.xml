@@ -3,13 +3,14 @@
   <groupId>com.vibes.vibes</groupId>
   <artifactId>vibes</artifactId>
   <versioning>
-    <release>1.0.22b</release>
+    <release>1.0.22c</release>
     <versions>
       <version>1.0.23</version>
       <version>1.0.24</version>
       <version>1.0.25</version>
       <version>1.0.22b</version>
+      <version>1.0.22c</version>
     </versions>
-    <lastUpdated>20180410183326</lastUpdated>
+    <lastUpdated>20180410183540</lastUpdated>
   </versioning>
 </metadata>
