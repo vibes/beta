@@ -3,27 +3,21 @@
   <groupId>com.vibes.vibes</groupId>
   <artifactId>vibes</artifactId>
   <versioning>
-<<<<<<< HEAD
     <release>1.0.22c</release>
-=======
     <release>1.0.22</release>
->>>>>>> f65e6cc4c72f3dedb09131f94c35d706886eb90a
     <versions>
       <version>1.0.23</version>
       <version>1.0.24</version>
       <version>1.0.25</version>
-<<<<<<< HEAD
       <version>1.0.22b</version>
       <version>1.0.22c</version>
     </versions>
     <lastUpdated>20180410183540</lastUpdated>
-=======
       <version>1.0.28</version>
       <version>1.0.31</version>
       <version>1.0.32</version>
       <version>1.0.22</version>
     </versions>
     <lastUpdated>20180410201900</lastUpdated>
->>>>>>> f65e6cc4c72f3dedb09131f94c35d706886eb90a
   </versioning>
 </metadata>
